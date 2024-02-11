@@ -7,3 +7,9 @@
 ## 2: passwordGenerator
   a app to generate password, with option to select length, option to have special character and number<br>
   made using useeffect, useref, usecallback and tailwind
+
+# typescript integration from here
+
+## 3: currencyConverter
+  a app to convert currency using api<br>
+  made using custom hooks and fetch api, useID , tailwind, typescript and other basic hooks
