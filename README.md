@@ -13,3 +13,7 @@
 ## 3: currencyConverter
   a app to convert currency using api<br>
   made using custom hooks and fetch api, useID , tailwind, typescript and other basic hooks
+
+## 4: themeToggler
+  a app that shows github profile and toggles theme of site
+  made using shadcn-ui, tailwind, typescript, context api, github api
