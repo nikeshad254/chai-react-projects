@@ -15,13 +15,13 @@
   made using custom hooks and fetch api, useID , tailwind, typescript and other basic hooks
 
 ## 4: themeToggler
-  a app that shows github profile and toggles theme of site
+  a app that shows github profile and toggles theme of site<br>
   made using shadcn-ui, tailwind, typescript, context api, github api
 
 ## 5: localTodo
-  a app that allows user to place todo, read todo list, delete and update those too, and doesnt remove at reload
+  a app that allows user to place todo, read todo list, delete and update those too, and doesnt remove at reload<br>
   made using context-api, localstorage, tailwind, typescript
 
 ## 6: toolkitTodo
-  a todo app, without localstorage but has all CRUD functionality
+  a todo app, without localstorage but has all CRUD functionality<br>
   made using redux toolkit, typescript, tailwind
