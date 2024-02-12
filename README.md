@@ -17,3 +17,7 @@
 ## 4: themeToggler
   a app that shows github profile and toggles theme of site
   made using shadcn-ui, tailwind, typescript, context api, github api
+
+## 5: localTodo
+  a app that allows user to place todo, read todo list, delete and update those too, and doesnt remove at reload
+  made using context-api, localstorage, tailwind, typescript
